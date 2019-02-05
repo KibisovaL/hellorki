@@ -8,8 +8,9 @@ The answer is quite simple:
 
 1. In the heat of recent discoveries, remember the famous **hello world** phrase. 
 2. Don't forget the Russian description of your Master's group **РКИ**, which stands for ~~[РАКЕТНО-КОСМИЧЕСКИЕ ИНЖЕНЕРЫ](https://www.hse.ru/ma/foreign "РУССКИЙ КАК ИНОСТРАННЫЙ")~~
-3. Combine until the result sounds strange enough
-⋅⋅* Keep thinking that there might have been a better idea
+3. Combine until the result sounds strange enough.
+  - Keep thinking that there might have been a better idea.
+  - Find none, however.
 4. ?????
 5. Profit!
 
